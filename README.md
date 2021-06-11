@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Talha!](https://www.linkedin.com/in/talha-salman-a91561199/)
 
 - ⚡ I'm a Google Developer Student Club Lead for UET Taxila
 - 🔭 I’m currently working on Digital Illustration
